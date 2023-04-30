@@ -190,5 +190,7 @@ vip::vip(ames_bag0)
 #vip::vip(ames_bag0,aesthetics = list(color='blue',fill='blue'))
 #dev.off()
 
+# 使用该代码，请引用文献：
+# Cui X, Huang W, Deng W, Jia C. Spatial Patterns, Drivers and Heterogeneous Effects of PM2.5: Experience from China. Polish Journal of Environmental Studies. 2022;31(6):5633-5647. doi:10.15244/pjoes/152165.
 
 
